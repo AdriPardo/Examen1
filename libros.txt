@@ -1,9 +1,6 @@
 La insoportable levedad del ser
 La dama de las camelias
 La conjura de los necios
-<<<<<<< HEAD
 Stardust
-=======
 La sombra del viento
 Clara y la penumbra
->>>>>>> 97f693c40a7723323252522c9f2b3f548ca257d3
